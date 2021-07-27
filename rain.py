@@ -15,7 +15,7 @@ rainX = random.randint(0, 1000)'''
 # raindropSpawnTime = 0
 
 # Class==========================================
-
+#변화 테스트
 
 class Raindrop:
     def __init__(self):  # 초기화
