@@ -15,7 +15,6 @@ tmanNotUmImg = pygame.image.load("images/tmanUmbrellaNot.png").convert_alpha()
 cloudImg = pygame.image.load("images/cloud.png").convert_alpha()
 
 # Class==========================================
-#변화 테스트
 
 class Raindrop:
     def __init__(self, x, y):  # 초기화
